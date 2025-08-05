@@ -19,3 +19,5 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishMcwn&show_icons=true&theme=radical)
