@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. I have experience with programming languages ​​such as JavaScript, as well as markup and styling languages ​​such as HTML and CSS. I spend most of my time coding new and unique projects to improve my skills.
+Hi there! 👋 I'm a recent CS grad with a deep interest in AI. I love diving into the mechanics of deep learning and have built several projects involving neural networks and object detection using frameworks like PyTorch and TensorFlow. I'm always looking for the next exciting challenge in the world of machine learning. Feel free to check out my pinned repositories below!
 
 ### 🤖 My AI & Data Science Stack
 <p>
