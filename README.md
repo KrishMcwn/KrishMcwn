@@ -1,14 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">Hi there, I'm Krish! 👋</h1>
-<p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" />
-  </a>
-</p>
+I am Misha Lavrenuyk, a designer-programmer with more than 2 years of experience and a content creator on the web. I have experience with programming languages ​​such as JavaScript, as well as markup and styling languages ​​such as HTML and CSS. I spend most of my time coding new and unique projects to improve my skills.
 
 ### 🤖 My AI & Data Science Stack
 <p>
