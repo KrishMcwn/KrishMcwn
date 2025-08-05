@@ -17,3 +17,4 @@ Hi there! 👋 I'm a recent CS grad with a deep interest in AI. I love diving in
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishMcwn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishMcwn)
