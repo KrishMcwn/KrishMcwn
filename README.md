@@ -20,4 +20,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
+<img src="https://c4.wallpaperflare.com/wallpaper/556/88/48/neon-genesis-evangelion-eva-unit-01-sniper-rifle-anime-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishMcwn&show_icons=true&theme=radical)
