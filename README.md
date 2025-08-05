@@ -17,12 +17,4 @@ Hi there! 👋 I'm a recent CS grad with a deep interest in AI. I love diving in
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishMcwn&show_icons=true&theme=tokyonight)
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Лівий віджет -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishMcwn&theme=midnight-purple&show_icons=true" alt="MrRep GitHub stats" style="width: 52%;">
-
-  <!-- Правий віджет -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple" alt="Top Langs" style="width: 36%;">
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishMcwn&layout=donut&theme=tokyonight)
