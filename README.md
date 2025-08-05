@@ -19,4 +19,15 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+<img src="https://c4.wallpaperflare.com/wallpaper/976/74/465/multiple-display-mountains-snow-nature-wallpaper-preview.jpg" alt="Banner" style="width: 100%; height: auto; border-radius: 10px;">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Лівий віджет -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRep&theme=midnight-purple&show_icons=true" alt="MrRep GitHub stats" style="width: 52%;">
+
+  <!-- Правий віджет -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=midnight-purple" alt="Top Langs" style="width: 36%;">
+  </a>
+</div>
